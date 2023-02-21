@@ -1,24 +1,5 @@
-# todolist
+![image](https://user-images.githubusercontent.com/104975905/220296992-4237fc44-b4f4-41c8-bef9-eefc0a96045a.png)
 
-## Project setup
-```
-npm install
-```
+![image](https://user-images.githubusercontent.com/104975905/220297196-6001bb6d-7fd5-4b55-9560-e575ffb94ce4.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/104975905/220297270-0e480222-6c54-4175-a454-497890d124e0.png)
